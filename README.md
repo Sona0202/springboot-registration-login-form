@@ -1,4 +1,4 @@
-# registration-login-form
+# registration-login-form using springboot and Mssql
 1.Initialize Spring Boot Project:
 Use Spring Initializr or your preferred IDE to create a new Spring Boot project.
 Include dependencies for Spring Web, Spring Data JPA, and MSSQL JDBC driver.

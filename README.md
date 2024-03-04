@@ -37,8 +37,11 @@ Integrate Bootstrap or other CSS frameworks for styling.
 Create login and registration forms in HTML.
 Implement backend authentication and authorization using Spring Security.
 Configure security settings in your Spring Boot application.
-9.![Screenshot (119)](https://github.com/Sona0202/springboot-registration-login-form/assets/130206732/4791d4e9-91ca-4cfd-b286-3fda7749adbb)
 
-10.run yor application in 8080 port.
+![Screenshot (119)](https://github.com/Sona0202/springboot-registration-login-form/assets/130206732/4791d4e9-91ca-4cfd-b286-3fda7749adbb)
+
+9.Run your project in springboot
+
+10.run your application in web browser by http://localhost:8080/.
 ![IMG_20240304_144600](https://github.com/Sona0202/springboot-registration-login-form/assets/130206732/12fa6e18-7d18-4777-8746-5090fb766854)
 
